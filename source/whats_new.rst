@@ -8,9 +8,9 @@ Tahoma2D includes a number of improvements from OpenToonz.  It also includes the
 In this section you can find a list of Highlights in the latest release of Tahoma2D; these may include New Features, Bug Fixes or Enhancements to already existent features.
 Here, you can also find links to past versions' Release Notes, to keep track of Tahoma2D development history throughout time.
 
-.. _v1.4.1:
+.. _v1.5:
 
-New in Tahoma2D 1.4.1 - released Feb 1, 2024
+New in Tahoma2D 1.5 - (pending, not released yet)
 --------------------------------------------
 
 Timeline/Xsheet
@@ -33,7 +33,7 @@ Preferences/Settings
 
 
 
-Please see the `v1.4.1 Release Notes <https://github.com/tahoma2d/tahoma2d/releases/tag/v1.4.1>`_  hosted in GitHub, for the full list of new features, enhancements and bug fixes.
+Please see the `v1.5 Release Notes (pending, not released yet) <https://github.com/tahoma2d/tahoma2d/releases/tag/v1.5>`_  hosted in GitHub, for the full list of new features, enhancements and bug fixes.
 
 .. _v1.4:
 

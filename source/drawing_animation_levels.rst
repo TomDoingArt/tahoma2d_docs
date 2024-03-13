@@ -171,6 +171,8 @@ The other buttons are relevant only using the Animate tool (|animate|) to animat
     - Use the **Play** button.
 
     - Drag the frame bar cursor.
+    
+    - Use :ref:`Inbetween Flip Playback <inbetween_flip_playback>`
 
 .. tip:: **To set the current frame:**
 
@@ -190,6 +192,38 @@ The other buttons are relevant only using the Animate tool (|animate|) to animat
 
     - Use the frame rate slider.
 
+.. _inbetween_flip_playback:
+
+Inbetween Flip Playback
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Inbetween Flip playback will flip between the previous drawing(s), the current/inbetween drawing and the next drawing(s) like page flipping for paper animation.
+
+The default Inbetween Flip settings will flip between 3 drawings in 200 msec in this order: Previous Drawing → Current Drawing → Next Drawing → Current Drawing.
+
+.. tip:: **To use the Inbetween Flip playback do one of the following:**
+
+    - Choose Play → Inbetween Flip on the main menu.
+
+    - Add the Inbetween Flip button to the Xsheet/Timeline Quick Command bar. 
+
+    - Set a keyboard shortcut.
+
+    .. figure:: ./_static/drawing_animation_levels/inbetween_flip_button.png
+
+       Inbetween Flip button.
+
+.. tip:: **To set the preferences for Inbetween Flip:**
+
+    Go to Preferences → Preview:
+
+    - Enter a value in the **Drawings** field. 3 is the default value. This is the number of drawings to flip between.
+
+    - Use the **Flip Speed** rate slider. 200 is the default value. This is the total time in milliseconds to flip between all of the drawings.
+
+    .. figure:: ./_static/drawing_animation_levels/inbetweeen_flip_preferences.png
+
+       Drawings and Flip Speed preferences.
 
 .. _adjusting_the_work_area_visualization:
 
@@ -1612,6 +1646,8 @@ To better check the new drawing and the animation, you can toggle the Shift and 
 
 
 
+.. |inbetween_flip_button| image:: ./_static/drawing_animation_levels/inbetween_flip_button.png
+.. |inbetween_flip_pref| image:: ./_static/drawing_animation_levels/inbetweeen_flip_preferences.png
 .. |canvas_size| image:: ./_static/drawing_animation_levels/canvas_size.png
 .. |animate| image:: ./_static/drawing_animation_levels/animate.png
 .. |bender| image:: ./_static/drawing_animation_levels/bender.png
